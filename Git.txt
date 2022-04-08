@@ -1,0 +1,17 @@
+https://github.com/Netflix/netflix.github.com.git : This repo is  an open netflix open source project ,i found it as a really interesting project because of how netflix is built ,and how they improve security ,data ,tools,and their 
+Common Runtime Services & Libraries.
+
+https://github.com/cloudflare/cloudflare.github.io.git : I got interested in this repo because cloudflare is a fast and secure system to process data .
+
+
+https://github.com/blender/blender.git : its one of my main references for the best open source 3d model and animate  program .
+
+
+https://github.com/DrKLO/Telegram.git : the larger open source messanging app and the most secure in general .
+
+
+
+https://github.com/obsproject/obs-studio.git : its the best app for streaming videos on mostly any plattaform and its open source 
+
+
+			
