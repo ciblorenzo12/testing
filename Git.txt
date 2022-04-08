@@ -7,7 +7,7 @@ https://github.com/cloudflare/cloudflare.github.io.git : I got interested in thi
 https://github.com/blender/blender.git : its one of my main references for the best open source 3d model and animate  program .
 
 
-https://github.com/DrKLO/Telegram.git : the larger open source messanging app and the most secure in general .
+https://github.com/github/gitignore.git  : extend collection of templates for gitignore
 
 
 
